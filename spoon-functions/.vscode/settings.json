@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    "src"
+  ], 
+  "cSpell.words": [
+    "firestore"
+  ]
+}
